@@ -2,7 +2,7 @@
  * Created by Кузнецов Юрий <kuznetsov_yura@mail.ru> on 2/22/2016 2:25 PM.
  */
 public class NameRepository implements Container<String> {
-    public String[] names =  {" Robert", "John", "Julie", "Lora"};
+    public String[] names =  {"Robert", "John", "Julie", "Lora"};
 
     @Override
     public Iterator<String> getIterator() {
