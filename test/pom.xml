@@ -29,6 +29,16 @@
     <module>../DesignPattern/Strategy</module>
     <module>../DesignPattern/TemplateMethod</module>
     <module>../DesignPattern/Visitor</module>
+    <module>../DesignPattern/Filter</module>
+    <module>../DesignPattern/NullObject</module>
+    <module>../DesignPattern/MVC</module>
+    <module>../DesignPattern/BusinessDelegate</module>
+    <module>../DesignPattern/CompositeEntity</module>
+    <module>../DesignPattern/DataAccessObject</module>
+    <module>../DesignPattern/FrontController</module>
+    <module>../DesignPattern/InterceptingFilter</module>
+    <module>../DesignPattern/ServiceLocator</module>
+    <module>../DesignPattern/TransferObject</module>
   </modules>
   <packaging>pom</packaging>
 
