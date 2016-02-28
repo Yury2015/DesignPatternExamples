@@ -1,4 +1,4 @@
-# design Patterns
+# DesignPatternExamples
 
 http://www.tutorialspoint.com/design_pattern/index.htm
 https://en.wikipedia.org/wiki/Design_Patterns
