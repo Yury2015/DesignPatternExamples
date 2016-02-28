@@ -3,9 +3,9 @@
  */
 
 // The first concrete decorator which adds vertical scrollbar functionality
-public class VerticalScrollBarrDecorator extends WindowDecorator {
+public class VerticalScrollBarDecorator extends WindowDecorator {
 
-    public VerticalScrollBarrDecorator(Window windowToBeDecorated) {
+    public VerticalScrollBarDecorator(Window windowToBeDecorated) {
         super(windowToBeDecorated);
     }
 
