@@ -1,9 +1,12 @@
 # DesignPatternExamples
 
-http://www.tutorialspoint.com/design_pattern/index.htm
-https://en.wikipedia.org/wiki/Design_Patterns
-http://ipc.susu.ru/pattern.html
-http://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
+<a href="http://www.tutorialspoint.com/design_pattern/index.htm">Design Patterns in english</a>
+<br>
+<a href="https://en.wikipedia.org/wiki/Design_Patterns">Design Patterns on Wikipedia</a>
+<br>
+<a href="http://ipc.susu.ru/pattern.html">Design Patterns на русском</a>
+<br>
+<a href="http://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html">Enterprise Integration Patterns</a>
 
 
 
